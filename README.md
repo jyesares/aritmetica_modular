@@ -1,0 +1,1 @@
+Algoritmos de aritmética modular que son necesarios para el desarrollo de la criptografía de clave pública. Se utilizarán números naturales con un número elevado de cifras. Utilizaremos el algoritmo extendido de Euclides, junto con su aplicación para calcular inversos modulares.
